@@ -1,15 +1,22 @@
-# Conversor de Moedas
+# 💱 Conversor de Moedas
 
-Projeto simples em Python que converte valores de reais (BRL) para outras moedas, com taxas simuladas.
+Projeto simples desenvolvido em Python para conversão de moedas em tempo real, utilizando uma API gratuita para obter as taxas de câmbio atualizadas.
 
-## Moedas disponíveis
-- USD (Dólar)
-- EUR (Euro)
-- ARS (Peso Argentino)
-- BTC (Bitcoin)
+## 🚀 Funcionalidades
 
-## Como usar
+- Conversão entre moedas (ex: BRL, USD, EUR, etc)
+- Busca de taxas de câmbio em tempo real
+- Interface no terminal (linha de comando)
+- Código simples e ideal para estudos
 
-1. Execute o script:
-```bash
-python conversor.py
+## 🛠️ Tecnologias utilizadas
+
+- Python 3
+- `requests` (para chamadas à API)
+
+## ▶️ Como rodar o projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Diogo-at/Conversor-Moedas.git
+   cd Conversor-Moedas
